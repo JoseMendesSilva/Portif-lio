@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://josemendes.dev.br/sitemap.xml

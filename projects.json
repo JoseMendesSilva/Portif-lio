@@ -1,0 +1,52 @@
+[
+  {
+    "id": "athena",
+    "workingName": "Athena",
+    "publicName": null,
+    "nameStatus": "working",
+    "category": "IA",
+    "status": "Implementado / em homologação",
+    "summary": "Plataforma modular de IA com agentes, memória, RAG, modelos locais e observabilidade.",
+    "url": "projects/athena/"
+  },
+  {
+    "id": "enniacode",
+    "workingName": "EnniaCode",
+    "publicName": null,
+    "nameStatus": "working",
+    "category": "Agentes / MCP",
+    "status": "Implementado / homologação parcial",
+    "summary": "Ambiente de engenharia assistida por IA com planejamento MCP, runtime governado, diffs, testes e Git.",
+    "url": "projects/enniacode/"
+  },
+  {
+    "id": "fleet-management",
+    "workingName": "Fleet Management System",
+    "publicName": null,
+    "nameStatus": "working",
+    "category": "IoT / GPS",
+    "status": "Implementado / em homologação",
+    "summary": "Gestão e rastreamento de frotas com GPS, mensageria, PostGIS, mapas e atualização em tempo real.",
+    "url": "projects/fleet-management/"
+  },
+  {
+    "id": "jms-platform-services",
+    "workingName": "JMS Platform Services",
+    "publicName": null,
+    "nameStatus": "working",
+    "category": "Plataforma",
+    "status": "Código principal implementado",
+    "summary": "Plataforma para autenticação, clientes, assinaturas, licenciamento, cobrança, auditoria e SDK.",
+    "url": "projects/jms-platform-services/"
+  },
+  {
+    "id": "jmsautomapper",
+    "workingName": "JMSAutoMapper",
+    "publicName": null,
+    "nameStatus": "working",
+    "category": "Biblioteca .NET",
+    "status": "Alpha / em homologação",
+    "summary": "Biblioteca .NET de mapeamento com configuração fluente, expression trees, DI, coleções e IQueryable.",
+    "url": "projects/jmsautomapper/"
+  }
+]
